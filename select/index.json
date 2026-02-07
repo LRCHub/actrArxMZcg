@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "THE AFTER",
+  "base_artist": "KMNZ",
+  "createdAt": "2026-02-07T03:26:54.710444Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Walk In The After Light",
+      "artist": "Nobody & Mystic Chords of Memory",
+      "has_synced": false,
+      "path": "select/01_Walk_In_The_After_Light_Nobody_&_Mystic_Chords_of_Memory.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Livin’ in the After",
+      "artist": "Panda Bear feat. Sonic Boom",
+      "has_synced": true,
+      "path": "select/02_Livin’_in_the_After_Panda_Bear_feat._Sonic_Boom.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Livin’ in the After",
+      "artist": "Panda Bear",
+      "has_synced": true,
+      "path": "select/03_Livin’_in_the_After_Panda_Bear.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The After-Party",
+      "artist": "Jodeci",
+      "has_synced": false,
+      "path": "select/04_The_After-Party_Jodeci.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The (After) Life Of The Party",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/05_The_(After)_Life_Of_The_Party_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Party & The After Party",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/06_The_Party_&_The_After_Party_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The After Dinner Payback",
+      "artist": "From Autumn to Ashes",
+      "has_synced": true,
+      "path": "select/07_The_After_Dinner_Payback_From_Autumn_to_Ashes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Party & The After Party - Original",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/08_The_Party_&_The_After_Party_-_Original_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Party & The After Party (Original)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/09_The_Party_&_The_After_Party_(Original)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The (After) Life Of The Party (Album Version)",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/10_The_(After)_Life_Of_The_Party_(Album_Version)_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Party & The After Party",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/11_The_Party_&_The_After_Party_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The After Party That Says, \"Yes!\"",
+      "artist": "Dneail",
+      "has_synced": false,
+      "path": "select/12_The_After_Party_That_Says,__Yes!_Dneail.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Movin' Cool (The After Party)",
+      "artist": "OutKast",
+      "has_synced": true,
+      "path": "select/13_Movin'_Cool_(The_After_Party)_OutKast.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "After Love In The After Hours",
+      "artist": "You Me At Six",
+      "has_synced": true,
+      "path": "select/14_After_Love_In_The_After_Hours_You_Me_At_Six.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Party & The After Party (Original)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/15_The_Party_&_The_After_Party_(Original)_The_Weeknd.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "THE AFTER",
+      "artist": "KMNZ",
+      "has_synced": false,
+      "path": "select/pl_01_THE_AFTER_KMNZ.txt"
+    }
+  ]
+}
